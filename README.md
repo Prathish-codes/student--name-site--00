@@ -1,0 +1,1 @@
+hey! welcome to my portfolio . currently i am learning git  and vscode from tanay pratap's youtube channel.
